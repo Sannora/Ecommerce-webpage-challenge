@@ -1,5 +1,5 @@
 # Ecommerce-webpage-challenge
-Website challenge that I've completed using HTML, CSS and JavaScript that simulates a e-commerce page of a product which user can view the product in lightbox and switch images through the image gallery. Webpage also simulates a simple cart and in-cart system which user can add items to cart and remove from it. Link: https://quiet-parfait-70b9c6.netlify.app/
+Website challenge that I've completed using HTML, CSS and JavaScript that simulates an e-commerce page of a product which user can view the product in lightbox and switch images through the image gallery. Webpage also simulates a simple cart and in-cart system which user can add items to cart and remove from it. Link: https://quiet-parfait-70b9c6.netlify.app/
 
 Here are some screenshots:
 
